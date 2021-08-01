@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **С++20, JS, C#, System Programming**
 
-- 📝 I regularly write articles on [dumitory.tech](dumitory.tech)
+- 📝 I regularly write articles on [dumitory.tech](https://dumitory.tech/)
 
 - 💬 Ask me about **C/C++, System Programming**
 
